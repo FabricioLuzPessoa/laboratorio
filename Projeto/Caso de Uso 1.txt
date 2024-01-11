@@ -1,0 +1,8 @@
+- Gilmar faz login;
+- clica em pacientes
+- clica no paciente (visualizar)
+- seleciona o(s) exame(s) e clica em criar
+- gilmar digita as informações e clica em gerar relatório
+- o relatório é gerado p/ gilmar analisar se está correto
+- Após isso, ele clicar em: enviar relatório p/ análise do bioquimico
+- Tenho que armazenar esse relatório da tabela do bioquímico

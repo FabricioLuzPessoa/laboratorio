@@ -1,0 +1,96 @@
+a:link, a:visited, a:active { /* link antes de ser visitado */
+
+	text-decoration: none;
+	color:         #268719;
+	font-size:       18px;
+}
+
+a:hover { /*quando passa o mouse sobre o link*/
+
+	color:           #268719;
+	background-color:rgba(0,255,0,0.2);
+	border:          solid 3px rgba(0,255,0,0.1);
+	border-radius:   10px;
+}
+
+.footer {
+  text-align: center;
+  font-size:  80%;
+}
+
+.fontemenor {
+	
+	font-size:   60%;
+	font-family: courier-news;
+}
+ 
+ table tr{
+	 
+	 border:  2px;
+	 padding: 0;
+	 margin:  0;
+ }
+
+.centralizar{
+	
+	text-align: center;
+}
+
+.margin {
+	
+	margin-left: 30%;
+	margin-right:30%;
+}
+
+.error {
+  font-weight: bold;
+  color:     #FF0000;
+}
+
+.ok {
+	font-weight: bold;
+	color:    #0000FF;
+}
+
+.login {
+  font-style: italic;
+}
+
+form label {
+  display:     inline-block;
+  width:       150px;
+  font-weight: bold;
+}
+
+td.label {
+  font-weight: bold;
+}
+
+img.profile {
+  vertical-align: top;
+}
+
+.azul {
+	font-weight: bold;
+    color:     blue;
+}
+
+.criarexame {
+	
+	border: 3px;
+}
+
+a {
+	color:         red;
+	text-decoration: none;
+}
+
+#assinatura {
+	
+	float: top;
+}
+
+table, tr, td {
+	padding: 5px;
+	
+}

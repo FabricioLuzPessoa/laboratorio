@@ -1,0 +1,13 @@
+Caso de uso para simulação do uso do programa
+
+- Primeiro gilmar marca os exames que irão ser feitos
+- Depois Ele informa o nome da pessoa e os valores dos exames a serem feitos
+- vai aparecer uma página pra ele digitar os valores dos exames e será gerado o relatorio
+- só isso
+
+
+- Gilmar digita o exame e coloca o nome do paciente
+- Marca as opçoes dos exames a serem feitos
+- Envia para o bioquimico.
+- bioquimico aprova.
+- Exame vai para uma lista onde os exames possam ser vizualizados.
